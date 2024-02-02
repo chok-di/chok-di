@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Alt Text(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWV1YzA0Mmh5ajBkd2I3dGVuaDVqMndxcHk0d2xtb2ZtbWQ0bHVoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 
