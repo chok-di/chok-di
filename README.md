@@ -15,21 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWV1YzA0Mmh5ajBkd2I3dGVuaDVqMndxcHk0d2xtb2ZtbWQ0bHVoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/dwu233)](https://leetcode.com/dwu233)
 
 <h2 align="center">My Tech Stacks<h2>
-<table>
-  <tbody>
-    <tr>
-      <td>Programming Languages</td>
-      <td align="center" width="90" height="90"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </td>
-      <td align="center" width="90" height="90"> <img src="https://camo.githubusercontent.com/ec7c4363f7fbc7171e8e52128f6606a729d649ad0687604e89e3875895ec6312/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3138363970782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67"/></td>
-    </tr>
-  </tbody>
-</table>
-
-
-
+<h3>Programming Languages</h3>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
