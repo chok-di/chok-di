@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dwu233)](https://leetcode.com/dwu233)
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/dwu233)]
 <h2 align="center">My Tech Stacks<h2>
 <h3>Programming Languages</h3>
 <p>
