@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <tbody>
     <tr>
       <td>Programming Languages</td>
-      <td align="center" width="90" height="90"></td>
+      <td align="center" width="90" height="90"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </td>
       <td align="center" width="90" height="90"> <img src="https://camo.githubusercontent.com/ec7c4363f7fbc7171e8e52128f6606a729d649ad0687604e89e3875895ec6312/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3138363970782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67"/></td>
     </tr>
   </tbody>
