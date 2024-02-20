@@ -1,11 +1,13 @@
-<h1 align="center"> Hi there 👋  I'm Di</h1>
-<h2 align="center">A Full-Stack Software Engineer with a background of Finance and Business</h2>
+<section align="center">
+<h1 > Hi there 👋  I'm Di</h1>
+<h3 >A Full-Stack Software Engineer with a background of Finance and Business</h2>
 
 ![coffee gif](https://media1.tenor.com/m/r_jrqeqwKzAAAAAC/cup-coffee.gif)
 
-<p>I grew up in Beijing, China, attended B-school in Canada and the UK, and now I am a winter warrior in Toronto, Ontario, Canada.</p>
+<p>I grew up in Beijing, China🇨🇳, attended B-school in Canada🇨🇦 and the UK🇬🇧, and now I am a winter warrior🥶 in Toronto, Ontario, Canada.☃️</p>
 <p> You'll often find me lost in thought, figuring out the next big challenge or learning something new just for the fun of it. Because of this, I've spent my career transitioning from the nitty-gritty of the business world to crafting cool code that solves real-world problems. I'm still embracing the journey, believing that big rewards come with big risks.</p>
 <p>When I'm not coding, I'm practicing a classical piano piece that I've been trying to master for the past 15 years, working on improving my Muay Thai strikes and kicks, or binge-playing games.</p>
+</section>
 
 
 
