@@ -4,9 +4,6 @@
 <p> You'll often find me lost in thought, figuring out the next big challenge or learning something new just for the fun of it. Because of this, I've spent my career transitioning from the nitty-gritty of the business world to crafting cool code that solves real-world problems. I'm still embracing the journey, believing that big rewards come with big risks.</p>
 <p>When I am not coding, I am practicing the classical piano piece that I've never perfectly mastered since 15 years ago, trying to improve the technique of my Muay Thai stikes and kicks, or binging in games</p>
 <p>When I'm not coding, I'm practicing a classical piano piece that I've been trying to master for the past 15 years, working on improving my Muay Thai strikes and kicks, or binge-playing games.</p>
-<!--
-**chok-di/chok-di** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 
