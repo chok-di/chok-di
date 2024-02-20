@@ -12,12 +12,6 @@
 
 
 
-
-
-
-
-<h3>Programming Languages</h3>
-
 <section align="center">
 <h2>My Tech Stacks</h2>
 <h3>Programming Languages</h3>
@@ -50,9 +44,6 @@
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <h3>Testing</h3>
-
-![storybook]
-![cypress] (
 ![jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![mocha](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
 ![chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
