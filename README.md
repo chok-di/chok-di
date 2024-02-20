@@ -3,6 +3,9 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwudev)
 
+<a href="https://www.linkedin.com/in/diwudev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+
 <h3 >A Full-Stack Software Engineer with a background of Finance and Business</h2>
 
 ![coffee gif](https://media1.tenor.com/m/r_jrqeqwKzAAAAAC/cup-coffee.gif)
