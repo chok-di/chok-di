@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there 👋  I'm Di</h1>
 <p>A Full-Stack Software Engineer with a background of Finance and Business</p>
+
+<div class="tenor-gif-embed" data-postid="16524053" data-share-method="host" data-aspect-ratio="1.37931" data-width="100%"><a href="https://tenor.com/view/cup-coffee-stirring-hot-morning-gif-16524053">Cup Coffee GIF</a>from <a href="https://tenor.com/search/cup-gifs">Cup GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p>I grew up in Beijing, China, attended B-school in Canada and the UK, and now I am a winter warrior in Toronto, Ontario, Canada.</p>
 <p> You'll often find me lost in thought, figuring out the next big challenge or learning something new just for the fun of it. Because of this, I've spent my career transitioning from the nitty-gritty of the business world to crafting cool code that solves real-world problems. I'm still embracing the journey, believing that big rewards come with big risks.</p>
 <p>When I'm not coding, I'm practicing a classical piano piece that I've been trying to master for the past 15 years, working on improving my Muay Thai strikes and kicks, or binge-playing games.</p>
