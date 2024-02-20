@@ -1,5 +1,7 @@
 <section align="center">
 <h1 > Hi there 👋  I'm Di</h1>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwudev)
+
 <h3 >A Full-Stack Software Engineer with a background of Finance and Business</h2>
 
 ![coffee gif](https://media1.tenor.com/m/r_jrqeqwKzAAAAAC/cup-coffee.gif)
