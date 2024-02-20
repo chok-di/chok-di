@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋  I'm Di</h1>
-<h2 align="center">A Full-Stack Software Engineer with a background of Finance and Business</p>
+<h2 align="center">A Full-Stack Software Engineer with a background of Finance and Business</h2>
 
 ![coffee gif](https://media1.tenor.com/m/r_jrqeqwKzAAAAAC/cup-coffee.gif)
 
