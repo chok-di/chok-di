@@ -6,14 +6,14 @@
 
 <p>I grew up in Beijing, China🇨🇳, attended B-school in Canada🇨🇦 and the UK🇬🇧, and now I am a winter warrior🥶 in Toronto, Ontario, Canada.☃️</p>
 <p> You'll often find me lost in thought, figuring out the next big challenge or learning something new just for the fun of it. Because of this, I've spent my career transitioning from the nitty-gritty of the business world to crafting cool code that solves real-world problems. I'm still embracing the journey, believing that big rewards come with big risks.</p>
-<p>When I'm not coding, I'm practicing a classical piano piece that I've been trying to master for the past 15 years, working on improving my Muay Thai strikes and kicks, or binge-playing games.</p>
+<p>When I'm not coding, I'm practicing a classical piano piece🎹 that I've been trying to master for the past 15 years, working on improving my Muay Thai 🥊🇹🇭strikes and kicks, or binge-playing games🎮.</p>
 </section>
 
 
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/dwu233)
+
 
 
 <h3>Programming Languages</h3>
@@ -59,3 +59,5 @@
 
 
 </section>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/dwu233)
