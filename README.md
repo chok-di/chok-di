@@ -3,7 +3,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwudev)
 
-[![Calendly](https://img.shields.io/badge/Calendly-006BFF?logo=calendly&logoColor=fff&style=for-the-badge)]
+[![Calendly](https://img.shields.io/badge/Calendly-006BFF?logo=calendly&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/diwudev)
 
 
 <h3 >A Full-Stack Software Engineer with a background of Finance and Business</h2>
