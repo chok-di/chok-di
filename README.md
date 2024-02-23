@@ -74,3 +74,5 @@
   
 ![Leetcode Stats](https://leetcard.jacoblin.cool/dwu233)
 </section>
+
+<h2 align="center">Thank you for visiting, and I hope you have a nice day!</h3>
