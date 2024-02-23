@@ -20,7 +20,7 @@
 <h3 >A Full-Stack Software Engineer with a background of Finance and Business</h2>
 
 ![coffee gif](https://media1.tenor.com/m/r_jrqeqwKzAAAAAC/cup-coffee.gif)
-<img src="https://github.com/chok-di/chok-di/blob/main/me2018.jpeg" width=600></img>
+<img src="https://github.com/chok-di/chok-di/blob/main/Meeee.png" height=365></img>
 
 <p>I grew up in Beijing, China🇨🇳, attended B-school in Canada🇨🇦 and the UK🇬🇧, and now I am a winter warrior🥶 in Toronto, Ontario, Canada.☃️</p>
 <p> You'll often find me lost in thought, figuring out the next big challenge or learning something new just for the fun of it. Because of this, I've spent my career transitioning from the nitty-gritty of the business world to crafting cool code that solves real-world problems. I'm still embracing the journey, believing that big rewards come with big risks.</p>
