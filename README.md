@@ -71,6 +71,8 @@
 </section>
 
 <section align="center">
+<h2>My Projects<h2>
+<h2>My Activities</h2>
   
 ![Leetcode Stats](https://leetcard.jacoblin.cool/dwu233)
 </section>
