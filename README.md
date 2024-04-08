@@ -88,57 +88,29 @@
   
   </a>  
       </p>
-        <p><strong>Node, React, React Router, Styled-Components, Firebase</strong> – An e-commerce app inspired by my success in skateboarding. Project is still in progress, but a preview is available in the link above.</p>
+        <p><strong>Nextjs, TypeScript, TailwindCSS, Amplify, Lambda, Cognito, RDS Postgres</strong> – A marketplace that sells wellness retreats and cultivates a community of like-minded individuals.
+</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Scheduler</h3>
+      <h3>EzScheduler</h3>
 
-![](https://user-images.githubusercontent.com/101907461/198912461-d302a858-0a79-4715-a114-9e8de5a9cc49.png)
+![](https://github.com/chok-di/EzScheduler/blob/main/screenshots/5.PNG)
 
   <p>
-  <a href="https://github.com/chunloy/scheduler" target="_blank">
+  <a href="https://github.com/chok-di/EzScheduler" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
     
   </a>  
       </p>
-        <p><strong> React, SCSS, Node, Express, PostgreSQL, Storybook, Jest, and Cypress</strong> – Scheduler is a full-stack, single-page appointment scheduling tool helping students connect with mentors.</p>
+        <p><strong> React, Node, Express, CodePipeline, S3, ElasticBeanStalk, RDS Postgres</strong> – A fun scheduler to invite and share good memories with your friends :D</p>
     </td>
   </tr>
   
-  <tr>
-<td width="50%" valign="top">
-      <h3>Desktop CNC Router</h3>
-
-![](https://user-images.githubusercontent.com/101907461/198864499-5bbf4c53-9ba6-46de-b318-ab3bd06fe02f.jpeg)
-
-  <p>
-  <a href="https://github.com/chunloy/desktop-cnc-router" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-      </p>
-        <p><strong>An Iron Man themed desktop CNC router built using steel tubing and 3D printed components</strong> – Leverages a modified version of the Marlin platform to support for 3-axis milling.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Wi-Fi Web & Voice Remote</h3>
-
-![](https://user-images.githubusercontent.com/101907461/198857975-40d67592-6b41-48d0-960b-b086a7230496.jpg)
-
-  <p>
-  <a href="https://github.com/chunloy/wifi-web-voice-remote" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>  
-      </p>
-        <p><strong>Developed in the Arduino IDE using the ESP8266 and infrared (IR) libraries</strong> – Created a device to upgrade an old tv with smart capabilities using a WiFi-enabled microcontroller and IR sensors.</p>
-    </td>
-    
-  </tr>
 </table>
 </section>
 
 <section align="center">
 
-
-<h2>My Projects<h2>
 <h2>My Activities</h2>
   
 ![Leetcode Stats](https://leetcard.jacoblin.cool/dwu233)
